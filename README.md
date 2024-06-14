@@ -8,7 +8,7 @@ Our bias mitigation methods, Stereotype Neutralization (SN) and EWC, enable the 
 
 ## Reproducing Experiments
 Before you start, you need to download the WinoBias datasets available on the [corefBias](https://github.com/uclanlp/corefBias). </br>
-Our preprocessing codes referenced previous work by By Daniel de Vassimon Manela, Boris van Breugel, Tom Fisher, David Errington. (https://github.com/12kleingordon34/NLP_masters_project)
+Our preprocessing codes referenced previous work by By Daniel de Vassimon Manela, Boris van Breugel, Tom Fisher, David Errington. [link](https://github.com/12kleingordon34/NLP_masters_project)
 
 ### Training
 
