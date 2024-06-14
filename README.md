@@ -1,6 +1,6 @@
 # BERT-ASE
 This repository contains the training code and data for the paper
-[Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution], published in WSDM 2023.
+[Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution], published in WSDM 2023. [pdf] (https://dl.acm.org/doi/pdf/10.1145/3539597.3570473)
 
 ## Overview
 BERT-ASE, alleviates the gender bias problems in the public released BERT by two bias mitigation methods.
